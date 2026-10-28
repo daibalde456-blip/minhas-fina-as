@@ -1,0 +1,25 @@
+{
+  "name": "Finanças pessoais",
+  "short_name": "Finanças",
+  "description": "Regista despesas e receitas de forma simples, privada e organizada.",
+  "lang": "pt-PT",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101111",
+  "theme_color": "#101111",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
